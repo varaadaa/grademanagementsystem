@@ -1,0 +1,7 @@
+Class Report
+Generated at: 2026-09-15T22:56:45.341087900
+------------------------------
+Varada (Roll: 24BCY10169) | Marks: [96, 80, 76] | Total: 252 | %: 84.00 | Grade: A
+Noor (Roll: 24BCY10245) | Marks: [69, 85, 90] | Total: 244 | %: 81.33 | Grade: A
+------------------------------
+Total students: 2
